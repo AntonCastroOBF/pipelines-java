@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/BG-Core/Bolt%20Graphics%20Interns/_apis/build/status%2FAntonCastroOBF.pipelines-java?branchName=main)](https://dev.azure.com/BG-Core/Bolt%20Graphics%20Interns/_build/latest?definitionId=15&branchName=main)
 
 # Contributing
 
